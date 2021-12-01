@@ -48,3 +48,14 @@ body{
   max-width: 60px;
   max-height: 60px;
 }
+
+
+@media (min-width:768px) {
+  .wrapper{
+    width: 54%;
+  }
+  .profile-img img{
+    max-width: 108px;
+    max-height: 108px;
+  }
+}
