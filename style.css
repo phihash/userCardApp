@@ -29,7 +29,7 @@ body{
 }
 
 .user-jsc{
-  margin-bottom: 16px;
+  margin-bottom: 18px;
 }
 
 
@@ -53,6 +53,9 @@ body{
 @media (min-width:768px) {
   .wrapper{
     width: 54%;
+  }
+  .profile-img{
+    margin-right: 2rem;
   }
   .profile-img img{
     max-width: 108px;
